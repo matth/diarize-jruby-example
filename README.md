@@ -18,6 +18,6 @@ The example script shows some very basic usage of the diarize jruby
 (and hence LIUM). It outputs speaker segments with start, duration and speaker
 id.
 
-   jruby-1.7.19/bin/jruby example.rb example.wav
+    jruby-1.7.19/bin/jruby example.rb example.wav
 
 
